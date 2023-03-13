@@ -13,7 +13,7 @@
   <img align="center" alt="PA-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PA-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="PA-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="PA-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="PA-Java" height="30" width="33" src="https://www.nicepng.com/png/full/52-520535_free-files-github-github-icon-png-white.png">
   <img align="right" alt="PA-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg">
 </div>
 
